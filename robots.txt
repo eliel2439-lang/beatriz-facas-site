@@ -1,0 +1,6 @@
+# Permitir que todos os robôs de busca acessem todo o site.
+User-agent: *
+Allow: /
+
+# Localização do Sitemap
+Sitemap: https://www.beatrizfacas.com.br/sitemap.xml
